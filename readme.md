@@ -1,0 +1,4 @@
+- Hi I am @bhartichauhan
+- I am interested in Analytics, working with databases like SQL Server, Oracle DB, MongoDB and other relational, non-relational and cloud databases.
+- I am currently learning Data Visualization and Data Management
+- I am looking to collaborate on interesting data viz projects, marketing analytics etc.
